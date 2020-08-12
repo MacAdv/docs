@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Macalester Advancement Info Svcs',
   tagline: 'The tagline',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://macadv.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'advcs', // Usually your GitHub org/user name.
+  organizationName: 'macadv', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -23,7 +23,7 @@ module.exports = {
         },
         // {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/advcs/docs',
+          href: 'https://github.com/macadv/docs',
           label: 'GitHub',
           position: 'right',
         },
