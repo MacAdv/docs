@@ -3,6 +3,7 @@ module.exports = {
   tagline: 'The tagline',
   url: 'https://macadv.github.io',
   baseUrl: '/docs/',
+  // baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'macadv', // Usually your GitHub org/user name.
@@ -44,13 +45,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/MacAdv/docs/blob/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,4 +53,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: [require.resolve('docusaurus-lunr-search')],
 };

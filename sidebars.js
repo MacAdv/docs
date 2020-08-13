@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Data: ['person', 'fund'],
+    Data: ['person', 'fund', 'organization'],
     Housekeeping: ['about','style','mdx'],
   },
 };
