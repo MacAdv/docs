@@ -1,0 +1,19 @@
+{
+  "unversionedId": "fund",
+  "id": "fund",
+  "isDocsHomePage": false,
+  "title": "The Fund Record",
+  "description": "Lorem ipsum...",
+  "source": "@site/docs\\fund.md",
+  "permalink": "/docs/docs/fund",
+  "editUrl": "https://github.com/MacAdv/docs/blob/master/docs/fund.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Giving Details",
+    "permalink": "/docs/docs/gift"
+  },
+  "next": {
+    "title": "Schools [Organizations]",
+    "permalink": "/docs/docs/organization"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "isDocsHomePage": false,
+  "title": "About",
+  "description": "This site is using Docusaurus V2.",
+  "source": "@site/docs\\about.md",
+  "permalink": "/docs/docs/about",
+  "editUrl": "https://github.com/MacAdv/docs/blob/master/docs/about.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Schools [Organizations]",
+    "permalink": "/docs/docs/organization"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/docs/style"
+  }
+}

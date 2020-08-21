@@ -1,0 +1,45 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/docs",
+      "latestVersionName": null,
+      "versions": [
+        {
+          "name": null,
+          "path": "/docs/docs",
+          "mainDocId": "person",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/docs/docs/about"
+            },
+            {
+              "id": "fund",
+              "path": "/docs/docs/fund"
+            },
+            {
+              "id": "gift",
+              "path": "/docs/docs/gift"
+            },
+            {
+              "id": "mdx",
+              "path": "/docs/docs/mdx"
+            },
+            {
+              "id": "organization",
+              "path": "/docs/docs/organization"
+            },
+            {
+              "id": "person",
+              "path": "/docs/docs/"
+            },
+            {
+              "id": "style",
+              "path": "/docs/docs/style"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "organization",
+  "id": "organization",
+  "isDocsHomePage": false,
+  "title": "Schools [Organizations]",
+  "description": "Schools = Organizations",
+  "source": "@site/docs\\organizaion.md",
+  "permalink": "/docs/docs/organization",
+  "editUrl": "https://github.com/MacAdv/docs/blob/master/docs/organizaion.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "The Fund Record",
+    "permalink": "/docs/docs/fund"
+  },
+  "next": {
+    "title": "About",
+    "permalink": "/docs/docs/about"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "vol",
+  "id": "vol",
+  "isDocsHomePage": false,
+  "title": "Volunteering",
+  "description": "Committees",
+  "source": "@site/docs\\vol.md",
+  "permalink": "/docs/vol",
+  "editUrl": "https://github.com/MacAdv/docs/blob/master/docs/vol.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "The Person Record",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Giving Details",
+    "permalink": "/docs/gift"
+  }
+}
