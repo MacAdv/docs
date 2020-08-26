@@ -12,8 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This is the primary resource for data definitions within Advancement IS.
       </>
     ),
   },
@@ -22,18 +21,16 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Use the search in the upper right to search on terms and concepts.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Missing something?</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We are working on building this out.  Please add requests for clarification to our.  <a href="https://engage.macalester.edu/register/adv-data-request">request docs</a> Thanks!
       </>
     ),
   },
@@ -72,7 +69,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Get Started.
             </Link>
           </div>
         </div>

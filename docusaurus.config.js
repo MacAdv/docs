@@ -2,8 +2,8 @@ module.exports = {
   title: 'Macalester Advancement Info Svcs',
   tagline: 'The tagline',
   url: 'https://macadv.github.io',
-  baseUrl: '/docs/',
-  // baseUrl: '/',
+  // baseUrl: '/~advcs/docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'macadv', // Usually your GitHub org/user name.

@@ -73,3 +73,37 @@ Mac Grad Indicator is coded on the Person Record.  **Mac Grad** = Yes.
 Here is an [Example Query](https://engage.macalester.edu/manage/query/build?id=8bd6da8b-2c8e-4839-999d-bef6697eb745)
 
 :::
+
+
+## Solicit Control
+
+We track a number of solicit control codes to make sure that we do not communicate with our alumni and constituents in ways that they do not like.
+
+|  Base  | Field   | Value |
+|--------|---------|-------|
+|Person  |Solicit - Do Not Email | Yes/No   |
+|Person  |Solicit - Do Not Mail | Yes/No   |
+|Person  |Solicit - Do Not Phone | Yes/No   |
+|Person  |Solicit - Do Not Solicit | Yes/No   |
+|Person  |Solicit - No Advancement Emails | Yes/No   |
+
+### Do Not Email
+
+*Coded* : This is equivalent to the the advance "NAE" code, or No Alumni Email.
+
+### Do Not Mail
+
+*Coded* : This is stored on the Mailing List status of Do Not Mail with a Status of Active
+
+### Do Not Phone
+
+*Coded* : This is stored on the Mailing List status of Do Not PHone with a Status of Active
+
+### Do Not Solicit
+
+*Coded* : This is coded on the Person Record with a Solicit Control Code of 'Do Not Solicit"
+
+### No Advancement Email
+
+*Coded* : This is stored on the Mailing List status of Do Not Mail with a Status of Active
+
