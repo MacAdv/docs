@@ -107,3 +107,45 @@ We track a number of solicit control codes to make sure that we do not communica
 
 *Coded* : This is stored on the Mailing List status of Do Not Mail with a Status of Active
 
+## Giving Societies
+
+To recognize donors giving at a certain level or designation, we have differently names Giving Societies.
+
+|  Base  | Field   | Value |
+|--------|---------|-------|
+|Giving  |Giving Society - James Wallace | Yes/No   |
+|Giving  |Giving Society - Grand | Yes/No |
+
+### James Wallace Giving Society
+
+The James Wallace Giving Society is for donors who have told us (formally or informally) that they have designated Macalester College in their will or estate provisions.
+
+### Grand Society
+
+Donors who contribute at $1600 or more a year
+
+### Young Grand Society
+
+To recognize a recent Alumni's economic situation, there are different levels of giving that will qualify a donor for Grand Society.  
+
+:::note
+
+This is based on the "oldest" alumni class year in a household.  
+*i.e. if a 2020 grad is married to a 2016 we treat the household as 2016*
+
+:::
+
+| Years Out | Band | Giving Level |
+|:---:|:---:|---:|
+| 0 | 1 | $200 |
+| 1 | 1 | $200 |
+| 2 | 1 | $200 |
+| 3 | 1 | $200 |
+| 4 | 1 | $200 |
+| 5 | 2 | $400 |
+| 6 | 2 | $400 |
+| 7 | 2 | $400 |
+| 8 | 3 | $800 |
+| 9 | 3 | $800 |
+| 10+ | na | $1600 |
+
