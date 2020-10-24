@@ -1,5 +1,6 @@
 ---
 id: person
+slug: /
 title: The Person Record
 ---
 
@@ -16,6 +17,8 @@ This name is calculated based on other parts of the name
 :::
 
 The Preferred Mailing Name is what is used for the address line of all mailing files.
+
+*Note* : As of Sep. 2020 gendered Prefixes {Mr., Mrs., Ms.} are not on a person's Preferred Mailing name by Default.  If the person requests, it will be added back.
 
 
 ### Salutation
@@ -91,13 +94,15 @@ We track a number of solicit control codes to make sure that we do not communica
 
 *Coded* : This is equivalent to the the advance "NAE" code, or No Alumni Email.
 
+*Source* : This is sourced from an **A**ctive "Do Not Email" Mailing List record on the person.
+
 ### Do Not Mail
 
-*Coded* : This is stored on the Mailing List status of Do Not Mail with a Status of Active
+*Coded* : This is stored on the Mailing List status of Do Not Mail with a Status of Active.  This is sourced from an **A**ctive "Do Not Solicit by Mail" Mailing List record on the person.
 
 ### Do Not Phone
 
-*Coded* : This is stored on the Mailing List status of Do Not PHone with a Status of Active
+*Coded* : This is stored on the Mailing List status of Do Not Phone with a Status of Active
 
 ### Do Not Solicit
 
