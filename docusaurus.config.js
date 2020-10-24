@@ -5,7 +5,7 @@ module.exports = {
   // baseUrl: '/~advcs/docs/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon-32x32-7697ce38.png',
   organizationName: 'macadv', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
@@ -13,7 +13,7 @@ module.exports = {
       title: 'Macalester Advancement Info Svcs',
       logo: {
         alt: 'Macalester Advancement Info Svcs Logo',
-        src: 'img/logo.svg',
+        src: 'img/favicon-32x32-7697ce38.png',
       },
       items: [
         {
